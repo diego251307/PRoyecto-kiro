@@ -1,0 +1,13 @@
+{
+  "name": "users-api",
+  "version": "1.0.0",
+  "description": "Ejemplo simple de API con arquitectura en capas (Node.js + Express)",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
